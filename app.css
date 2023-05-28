@@ -9,6 +9,12 @@ body {
    font-size: 2.5rem;
 }
 
+.blurb h3 {
+    color: #EA1C2C;
+    font-weight: 100;
+    font-size: 1.5rem;
+ }
+
 .blurb p {
     color: #f498b8;
     font-weight: 100;
@@ -19,6 +25,18 @@ body {
 .content {
     margin-top: 100px;
     margin-bottom: 100px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 140px;
+    border-top: 1px solid rgba(250, 250, 250, 0.5);
+    padding: 50px 0px;
+}
+
+.footer p {
+    font-size: 14px;
+    color: white;
 }
 
 #mainNavbar {
